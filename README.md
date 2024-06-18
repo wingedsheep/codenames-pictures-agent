@@ -16,8 +16,8 @@ To run this project, you need Python 3.7 or higher. Additionally, you'll need to
 
 Start by cloning the repository:
 ```bash
-git clone https://github.com/your-username/codenames-pictures-automated-spymaster.git
-cd codenames-pictures-automated-spymaster
+git clone git@github.com:wingedsheep/codenames-pictures-agent.git
+cd codenames-pictures-agent
 ```
 
 It's recommended to set up a virtual environment:
